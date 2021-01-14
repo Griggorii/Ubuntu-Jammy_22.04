@@ -9,7 +9,11 @@ Double installation !
 
 $ sudo dpkg -i ./chromium-browser_87.0.4280.88-0ubuntu0.20.04_amd64.deb
 
-$ sudo dpkg -i ./chromium-browser_87.0.4280.88-0ubuntu0.20.04_amd64.deb
+$ sudo dpkg -i ./chromium-browser_87.0.4280.88-0ubuntu
+
+$ cp 'Local State' ~/.config/chromium0.20.04_amd64.deb
+
+
 
 Run
 
