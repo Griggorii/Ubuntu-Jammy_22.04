@@ -11,7 +11,9 @@ $ sudo dpkg -i ./chromium-browser_87.0.4280.88-0ubuntu0.20.04_amd64.deb
 
 $ sudo dpkg -i ./chromium-browser_87.0.4280.88-0ubuntu
 
-$ cp 'Local State' ~/.config/chromium0.20.04_amd64.deb
+Local State copy setting too:
+
+$ mkdir ~/.config/chromium ~/.config/chromium/Default && cp 'Local State' ~/.config/chromium
 
 Run check profile chrome://gpu/
 
