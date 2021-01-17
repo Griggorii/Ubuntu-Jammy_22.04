@@ -29,7 +29,7 @@ chromium-browser --enable-pinch --enable-features=UseOzonePlatform --ozone-platf
 
 info https://github.com/Griggorii/chromium-browser_setting_linux_3.0_chrome_chromium_flags_Command-Line
 
-Для тех кому нужен граф chrome://discards/graph
+Для тех кому нужен граф chrome://discards/graph типа воркера при нажатии на круг приложения покажет всю информацию экстешена
 
 
 
